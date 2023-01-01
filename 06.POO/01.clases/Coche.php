@@ -2,9 +2,9 @@
 class Coche{
 
     /* modificadores de acceso:
-     * public
-     * private
-     * protected
+     * public: es accesible dentro y fuera de la clase
+     * private:
+     * protected:
      */
     private string $marca;
     public int $velocidad_maxima;
