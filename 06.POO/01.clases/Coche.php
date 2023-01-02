@@ -27,7 +27,7 @@ class Coche{
     }
 }
 
-// instanciamos la clase
+// Instanciamos la clase
 $auto = new Coche("Renault", 50 );
 var_dump($auto);
 
